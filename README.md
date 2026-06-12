@@ -1,5 +1,8 @@
 # Sales & Revenue Dashboard
 
+<img width="1341" height="755" alt="Screenshot 2026-06-12 103355" src="https://github.com/user-attachments/assets/d1ea7571-646d-498f-a21c-2c1e75f43453" />
+
+
 ## Overview
 
 The Sales & Revenue Dashboard is an interactive business intelligence solution developed in Power BI to analyze sales performance, revenue trends, product performance, category-wise analysis, and regional sales distribution. The dashboard helps stakeholders monitor key business metrics and make data-driven decisions.
